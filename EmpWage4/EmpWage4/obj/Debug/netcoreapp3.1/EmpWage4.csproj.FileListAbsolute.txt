@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\bin\Debug\netcoreapp3.1\EmpWage4.exe
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\bin\Debug\netcoreapp3.1\EmpWage4.deps.json
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\bin\Debug\netcoreapp3.1\EmpWage4.runtimeconfig.json
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\bin\Debug\netcoreapp3.1\EmpWage4.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\bin\Debug\netcoreapp3.1\EmpWage4.dll
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\bin\Debug\netcoreapp3.1\EmpWage4.pdb
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.dll
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.pdb
+C:\Users\Admin\Desktop\projects\EmpWage4\EmpWage4\obj\Debug\netcoreapp3.1\EmpWage4.genruntimeconfig.cache

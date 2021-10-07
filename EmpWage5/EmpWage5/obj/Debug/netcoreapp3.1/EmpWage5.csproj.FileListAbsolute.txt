@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\EmpWage5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\EmpWage5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\EmpWage5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\EmpWage5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\EmpWage5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\EmpWage5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\bin\Debug\netcoreapp3.1\`.exe
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\bin\Debug\netcoreapp3.1\`.deps.json
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\bin\Debug\netcoreapp3.1\`.runtimeconfig.json
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\bin\Debug\netcoreapp3.1\`.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\bin\Debug\netcoreapp3.1\`.dll
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\bin\Debug\netcoreapp3.1\`.pdb
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\`.dll
+C:\Users\Admin\Desktop\projects\EmpWage5\EmpWage5\obj\Debug\netcoreapp3.1\`.pdb
